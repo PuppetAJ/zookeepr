@@ -108,26 +108,6 @@
         "hungry"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "hello",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "test",
-      "species": "test",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious"
-      ],
-      "id": "12"
     }
   ]
 }
