@@ -117,6 +117,17 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "test",
+      "species": "test",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
